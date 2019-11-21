@@ -52,9 +52,9 @@
   </licenses>
 
   <properties>
-    <opendistro_security_ssl.version>0.10.0.3</opendistro_security_ssl.version>
-    <opendistro_security_advanced_modules.version>0.10.0.3</opendistro_security_advanced_modules.version>
-    <elasticsearch.version>6.8.1</elasticsearch.version>
+    <opendistro_security_ssl.version>0.10.0.3-redhat-2</opendistro_security_ssl.version>
+    <opendistro_security_advanced_modules.version>0.10.0.3-redhat-2</opendistro_security_advanced_modules.version>
+    <elasticsearch.version>6.8.1.redhat-5</elasticsearch.version>
     
     <!-- deps -->
     <netty-native.version>2.0.20.Final</netty-native.version>
