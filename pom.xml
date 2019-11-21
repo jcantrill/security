@@ -52,8 +52,8 @@
   </licenses>
 
   <properties>
-    <opendistro_security_ssl.version>0.10.0.3-redhat-2</opendistro_security_ssl.version>
-    <opendistro_security_advanced_modules.version>0.10.0.3-redhat-2</opendistro_security_advanced_modules.version>
+    <opendistro_security_ssl.version>0.10.0.3-redhat-1</opendistro_security_ssl.version>
+    <opendistro_security_advanced_modules.version>0.10.0.3-redhat-1</opendistro_security_advanced_modules.version>
     <elasticsearch.version>6.8.1.redhat-5</elasticsearch.version>
     
     <!-- deps -->
