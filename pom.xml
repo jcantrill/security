@@ -39,7 +39,7 @@
 
   <artifactId>opendistro_security</artifactId>
   <packaging>jar</packaging>
-  <version>0.10.0.3</version>
+  <version>0.10.1.0</version>
   <name>Open Distro Security for Elasticsearch</name>
   <description>Open Distro For Elasticsearch Security</description>
   <inceptionYear>2015</inceptionYear>
